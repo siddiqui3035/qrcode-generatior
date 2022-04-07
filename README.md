@@ -1,5 +1,5 @@
 ```link
 test Link:
 
-https://siddiqui3035.github.io/bercode-generator/
+https://siddiqui3035.github.io/qrcode-generatior/
 ```
